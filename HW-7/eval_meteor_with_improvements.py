@@ -4,12 +4,6 @@ Created on Thu Nov 30 20:12:13 2017
 
 @author: SHILPASHREE RAO
 """
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 24 17:50:03 2017
-
-@author: SHILPASHREE RAO
 """
 import sys
 import math
