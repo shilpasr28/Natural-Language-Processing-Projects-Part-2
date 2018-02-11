@@ -1,0 +1,9 @@
+// copyright 2013 google inc. all rights reserved.
+: antonyms
+wet dry blunt sharp
+day night pretty ugly
+late early soft hard 
+: tense
+building present built past
+driving present drove past
+looking present looked past 
